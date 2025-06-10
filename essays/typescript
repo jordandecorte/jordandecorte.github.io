@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Honest review of TypeScript"
 date: 2025-06-06
-published: true
+published: false
 labels:
   - Engineering
 ---
