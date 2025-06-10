@@ -9,19 +9,31 @@ labels:
   - Neural Networks
   - Machine Learning
   - C++
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "Project centered around building/training neural networks."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Tigers and Goats is a project designed to introduce students to Neural Networks. Neural Networks are essentially the framework which allows artificial intelligence (AI) to learn. Implementing reinforcement learning into our code allows for our programs to determine the best course of action to take after running thriugh it's trial period.  
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Here is some example code to illustrate what functions the Neural Network was trained on:
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Loss function: Cross entropy loss for classification
+criterion = nn.CrossEntropyLoss()
+optimizer = optim.Adam(model.parameters(), lr=0.001)
 
-Here is some example code to illustrate Simple Schema use:
+Train the model
+num_epochs = 5
+for epoch in range(num_epochs):
+    running_loss = 0.0
+    for inputs, labels in trainloader:
+        inputs, labels = inputs.to(device), labels.to(device)
+        optimizer.zero_grad()
+        outputs = model(inputs)
+        loss = criterion(outputs, labels)
+        loss.backward()
+        optimizer.step()
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+        running_loss += loss.item()
+    
+    print(f"Epoch {epoch+1}/{num_epochs}, Loss: {running_loss/len(trainloader)}")
