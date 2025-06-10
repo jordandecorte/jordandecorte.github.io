@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Tigers and Goats"
+date: 2025
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Neural Networks
+  - Machine Learning
+  - C++
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 
