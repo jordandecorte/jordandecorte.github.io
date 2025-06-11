@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/neural network.jpg
 title: "Tigers and Goats"
 date: 2025
 published: true
