@@ -57,12 +57,24 @@
     {
       "organization": "Kokua Ministry",
       "website": "",
-      "position": "Donations Manager",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Donation system for less fortunate",
-      "highlights": [
-        "Canned goods, clothing, baby necessities"
-      ]
+      "position": "Donations Consultant",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "Donation service for less fortunate"
+    },
+    {
+      "organization": "Next Step",
+      "website": "",
+      "position": "Server",
+      "startDate": "2105",
+      "endDate": "",
+      "summary": "Feed the homeless at the homeless shelter"
     }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
 
