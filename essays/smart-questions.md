@@ -41,8 +41,10 @@ This user asked the question "How to disable new AI-based IntelliCode in VS 2022
 
 ## Survey says: Show me a "bad" question:
 
+https://stackoverflow.com/questions/32190976/java-pong-ai-not-moving
 
+This user created a thread and named it "Java-Pong AI not moving". Although this isn't necessarily in question form, it already checks the boxes of what a "bad" question is. The statement is too vague and doesn't provide any specific information on what the user wants to know. In the thread the user says "I am making pong in java but the enemy AI is not moving. It should move to the direction the ball goes to. Please can someone help me?". This is the only information given along with some screenshots of code that doesn't work. This is a question that is specifically looking for an answer and not understanding. This is a perfect example of a "bad" question. 
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+So are there really any "dumb" questions? Personally, I think not. Every questions seeks to gain some knowledge that the individual didn't originally have, but there are such things as "good" questions and "bad" questions. Hopefully after reading this people can understand the difference between the two and can start asking questions in a "good" way from now on.
