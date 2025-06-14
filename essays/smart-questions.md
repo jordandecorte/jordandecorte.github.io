@@ -13,9 +13,15 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## What makes a question "good"?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+I'm sure we all have our own conception of what a "good" question looks like. In the essay "How To Ask Questions The Smart Way" by Eric Steven Raymond, the author provides a basic framework or guideline that people with not only professional careers but anyone in general can follow to ensure that they're maximizing learning by asking questions correctly. 
+
+1. Specific - good questions are specific and precise. Explain exactly what it is that you want to know and what ways you can solve the issue at hand.
+2. Implementation - good questions include the trial and error process that the individual took that led them to where they are.
+3. Curiousity- good questions are also curious in nature. After getting stumped by a problem, take the time to figure out ways you can solve the problem before asking a question. This ensures that questions are asked in a way that seeks understanding and not just answers.
+
+Good questions aren't just singular sentences how generic questions might be, but more of a dialogue that seeks to understand. Once questions are answered and solutions are reached, those same questions can then be turned into learning experiences for other people who may have similar questions in the future. 
 
 ## What’s a smart question?
 
