@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img dumb-questions-26-1.jpg>
+image: img/dumb-questions-26-1.jpg
 
 ## What makes a question "good"?
 
