@@ -23,11 +23,15 @@ I'm sure we all have our own conception of what a "good" question looks like. In
 
 Good questions aren't just singular sentences how generic questions might be, but more of a dialogue that seeks to understand. Once questions are answered and solutions are reached, those same questions can then be turned into learning experiences for other people who may have similar questions in the future. 
 
-## What’s a smart question?
+## What makes a question "bad"?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+We also have a conception of what "bad" questions look like. "Bad" questions are often times a lot easier to recognize than "good" questions. Sometimes people can categorize questions as "bad" just simply based on the fact that they don't like the question. So let's take a look at what can make a question "bad".
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+1. Generic/Vague - bad questions are almost always generic or vague in nature. Questions asked in this manner make it hard for other individuals to understand what it is that's wrong or what they can even do to help. One sentence questions also fall victim to being generic or vague.
+2. Lack of understanding - bad questions also tend to lack the understanding of whatever it is that you're working on. It is this lack of understanding that causes questions to become generic or vague. It shows that the individual didn't take the time to understand the material or work through solutions on their own.
+3. Answer hunting - bad questions almost always just ask what the solution is. This shows that the individual is looking for answers as opposed to an understanding of the issues presented before them.
+
+"Bad" questions can often times present the asker in a negative way. So ditch the "bad" questions and start asking some good ones!
 
 ```
 Q: python date of the previous month
