@@ -33,13 +33,13 @@ We also have a conception of what "bad" questions look like. "Bad" questions are
 
 "Bad" questions can often times present the asker in a negative way. So ditch the "bad" questions and start asking some good ones!
 
-## Survey says: Show me a "good" question: 
+## Survey says: Show me a "good" question... 
 
 https://stackoverflow.com/questions/70007337/how-to-disable-new-ai-based-intellicode-in-vs-2022
 
 This user asked the question "How to disable new AI-based IntelliCode in VS 2022?". Although it is a very simple question and it is only one sentence it does a very good job at specifying what it is the user wants to know. In the thread the user goes on to explain exactly what his problem is and what he intends to do once the question is answered. The user also provides a step-by-step process on what they did in order to try and fix it. The user also provided screenshots showing specifically what the issues were. This is a perfect example of a "good" question. 
 
-## Survey says: Show me a "bad" question:
+## Survey says: Show me a "bad" question...
 
 https://stackoverflow.com/questions/32190976/java-pong-ai-not-moving
 
@@ -48,3 +48,7 @@ This user created a thread and named it "Java-Pong AI not moving". Although this
 ## Conclusion
 
 So are there really any "dumb" questions? Personally, I think not. Every questions seeks to gain some knowledge that the individual didn't originally have, but there are such things as "good" questions and "bad" questions. Hopefully after reading this people can understand the difference between the two and can start asking questions in a "good" way from now on.
+
+## AI Usage
+
+AI was not used for this essay. Thoughts and words were done entirely by myself.
