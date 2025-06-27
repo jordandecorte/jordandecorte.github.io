@@ -1,25 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "Thoughts on Coding Standards"
+title: "Coding Standards: The Unspoken Rules of the Coding World:"
 # All dates must be YYYY-MM-DD format!
 date: 2025-06-27
 published: true
 labels:
   - Coding Standards
   - VSCode
+  - ESLint
 
 ---
 
 ## What are coding standards?
 
-I'm sure we all have our own conception of what a "good" question looks like. In the essay "How To Ask Questions The Smart Way" by Eric Steven Raymond, the author provides a basic framework or guideline that people with not only professional careers but anyone in general can follow to ensure that they're maximizing learning by asking questions correctly. 
-
-1. Specific - good questions are specific and precise. Explain exactly what it is that you want to know and what ways you can solve the issue at hand.
-2. Implementation - good questions include the trial and error process that the individual took that led them to where they are.
-3. Curiousity- good questions are also curious in nature. After getting stumped by a problem, take the time to figure out ways you can solve the problem before asking a question. This ensures that questions are asked in a way that seeks understanding and not just answers.
-
-Good questions aren't just singular sentences how generic questions might be, but more of a dialogue that seeks to understand. Once questions are answered and solutions are reached, those same questions can then be turned into learning experiences for other people who may have similar questions in the future. 
+Coding standards are generally understood as guidelines or rules that software engineers follow to promote consistency, reliability and readability in ones code. They can be seen as a map of sorts to help people understand what is being done in the code and the persons thoughts while creating the code. However, coding standards can be seen as "trivial", especially after working on coding projects for hours on end. Often times you just don't feel like adding that one extra indentation, or that one extra comment that might help others understand what you're trying to do. Although at times these "coding standards" may seem like a bit much, I believe that they are necessary for programmers of every level to adhere too because it can only benefit an individuals code.
 
 ## What makes a question "bad"?
 
