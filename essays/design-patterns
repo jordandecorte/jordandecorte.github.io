@@ -15,7 +15,7 @@ labels:
 
 In Software Engineering, design patterns are generally understood as reusable solutions for typical software design challenges. Seasoned software engineers use these best practices to write more structured, manageable, and scalable code. Design patterns are not finished code but templates or blueprints only. Design patterns are extremely important because it makes coding from scratch much, much easier. In todays coding world, there are many repetitive scenarios that have already been worked through previously. So, having these design patterns save software engineers a whole lot of time by allowing them to follow pre-made templates that are proven to work, without having to stress about coding from the ground up. This allows software engineers to focus their time and energy to solving other important issues concerning the task at hand. 
 
-## (RRR) of Design Patterns: 
+## RRR of Design Patterns: 
 
 Reduce: Reducing the amount of time that's traditionally needed to code from the ground up by using design patterns.
 Reuse: Reusing previously written and efficient code is done using design patterns.
