@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI Usage"
+title: "Reflection on Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-11
 published: true
